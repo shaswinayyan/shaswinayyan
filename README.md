@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development and Data Science<br>🤝 I’m actively contributing to open-source projects<br>🌱 I’m currently learning Android and iOS app development<br>💬 If you have a project that you think I would be a good fit for, please don't hesitate to reach out<br>⚡ I'm currently working on a my personal projects
+🔭 I’m currently working on Web development and Data Science<br>🤝 I’m actively contributing to open-source projects<br>🌱 I’m currently learning Android and iOS app development<br>💬 If you have a project that you think I would be a good fit for, please don't hesitate to reach out<br>⚡ I'm currently bored with my personal projects
 
 
 ## 🌐 Socials:
